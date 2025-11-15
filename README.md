@@ -17,7 +17,7 @@ This repository contains verified certificates that showcase my technical skills
 **Platform:** HackerRank  
 **Description:** Cleared the Java (Basic) skill certification test demonstrating knowledge of OOPs, loops, strings, arrays, and standard Java concepts.  
 **Certificate:**  
-👉 [Click to View](./java_basic_certificate.png)
+👉 [Click to View](./java_basic_certificate.pdf)
 
 ---
 
@@ -25,6 +25,6 @@ This repository contains verified certificates that showcase my technical skills
 **Platform:** HackerRank  
 **Description:** Earned Intermediate-level SQL certification covering joins, aggregations, subqueries, data manipulation, filtering, and analytical SQL concepts.  
 **Certificate:**  
-👉 [Click to View](./sql_intermediate_certificate.png)
+👉 [Click to View](./sql_intermediate_certificate.pdf)
 
 
